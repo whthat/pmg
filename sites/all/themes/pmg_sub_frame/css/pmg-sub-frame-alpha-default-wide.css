@@ -1,0 +1,22 @@
+/* This file will hold styles that are loaded using the same media query as the wide grid. */
+
+/* Shows Body Text of Articles */
+.view-frontpage-articles .views-field-body {
+	display: inline;
+}
+
+/*
+#section-header .container-12, #section-content .container-12, #section-footer .container-12 {
+	width: 1180px;
+}
+#section-header .container-12 .grid-9, #section-content .container-12 .grid-9, #section-footer .container-12 .grid-9 {
+	width: 860px;
+}*/
+
+#zone-content-wrapper .container-12 .grid-9 {
+	width: 870px;
+	margin-right: 0;
+}
+#zone-content-wrapper .container-12 {
+	width: 1180px;
+}
